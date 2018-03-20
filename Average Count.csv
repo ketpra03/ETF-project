@@ -1,0 +1,19 @@
+Frequency,Ticker_Pairs,Signs,Decile 1,Decile 2,Decile 3,Decile 4,Decile 5,Decile 6,Decile 7,Decile 8,Decile 9,Decile 10
+Month,GLD_GDX,Positive,11.0,3.0,6.0,10.0,2.0,3.0,0.0,2.0,2.0,2.0
+Month,GLD_GDX,Negative,2.0,0.0,0.0,0.0,1.0,3.0,1.0,5.0,6.0,13.0
+Month,GLD_SLV,Positive,5.0,14.0,10.0,7.0,1.0,0.0,0.0,0.0,0.0,2.0
+Month,GLD_SLV,Negative,1.0,1.0,0.0,1.0,3.0,3.0,3.0,7.0,2.0,12.0
+Month,GDX_SLV,Positive,12.0,10.0,3.0,3.0,3.0,1.0,0.0,0.0,0.0,1.0
+Month,GDX_SLV,Negative,1.0,0.0,0.0,2.0,4.0,4.0,4.0,5.0,5.0,14.0
+Quarter,GLD_GDX,Positive,2.0,3.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0
+Quarter,GLD_GDX,Negative,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+Quarter,GLD_SLV,Positive,4.0,4.0,2.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0
+Quarter,GLD_SLV,Negative,1.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,3.0,1.0
+Quarter,GDX_SLV,Positive,3.0,3.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0
+Quarter,GDX_SLV,Negative,1.0,1.0,0.0,0.0,1.0,1.0,0.0,4.0,4.0,2.0
+Year,GLD_GDX,Positive,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0
+Year,GLD_GDX,Negative,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Year,GLD_SLV,Positive,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Year,GLD_SLV,Negative,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Year,GDX_SLV,Positive,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Year,GDX_SLV,Negative,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0

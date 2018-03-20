@@ -1,0 +1,37 @@
+Strategy,Frequency,Ticker_Pair,Decile 1,Decile 2,Decile 3,Decile 4,Decile 5,Decile 6,Decile 7,Decile 8,Decile 9,Decile 10
+Correlations Strat,Month,GLD_GDX,5.0,2.0,3.0,5.0,6.0,9.0,6.0,17.0,13.0,6.0
+Correlations Strat,Month,GLD_SLV,2.0,1.0,5.0,3.0,4.0,8.0,7.0,17.0,18.0,7.0
+Correlations Strat,Month,GDX_SLV,1.0,2.0,1.0,7.0,5.0,5.0,12.0,16.0,14.0,9.0
+Correlations Strat,Quarter,GLD_GDX,2.0,2.0,1.0,0.0,1.0,6.0,1.0,6.0,3.0,2.0
+Correlations Strat,Quarter,GLD_SLV,1.0,0.0,1.0,1.0,2.0,1.0,3.0,4.0,6.0,5.0
+Correlations Strat,Quarter,GDX_SLV,1.0,0.0,0.0,0.0,2.0,5.0,5.0,5.0,4.0,2.0
+Correlations Strat,Year,GLD_GDX,1.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+Correlations Strat,Year,GLD_SLV,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0
+Correlations Strat,Year,GDX_SLV,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Differentials Vol Strat,Month,GLD_GDX,6.0,13.0,14.0,7.0,10.0,7.0,9.0,1.0,3.0,2.0
+Differentials Vol Strat,Month,GLD_SLV,19.0,27.0,14.0,8.0,1.0,1.0,1.0,0.0,0.0,1.0
+Differentials Vol Strat,Month,GDX_SLV,7.0,15.0,14.0,11.0,6.0,5.0,8.0,3.0,2.0,1.0
+Differentials Vol Strat,Quarter,GLD_GDX,7.0,2.0,1.0,4.0,1.0,1.0,2.0,2.0,2.0,2.0
+Differentials Vol Strat,Quarter,GLD_SLV,3.0,7.0,8.0,3.0,0.0,1.0,0.0,0.0,1.0,1.0
+Differentials Vol Strat,Quarter,GDX_SLV,4.0,3.0,4.0,2.0,0.0,1.0,0.0,4.0,3.0,3.0
+Differentials Vol Strat,Year,GLD_GDX,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Differentials Vol Strat,Year,GLD_SLV,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Differentials Vol Strat,Year,GDX_SLV,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+Differentials Skew Strat,Month,GLD_GDX,1.0,1.0,5.0,7.0,15.0,12.0,16.0,11.0,3.0,1.0
+Differentials Skew Strat,Month,GLD_SLV,4.0,3.0,12.0,4.0,12.0,12.0,13.0,6.0,4.0,2.0
+Differentials Skew Strat,Month,GDX_SLV,2.0,1.0,6.0,19.0,20.0,14.0,5.0,4.0,0.0,1.0
+Differentials Skew Strat,Quarter,GLD_GDX,2.0,1.0,2.0,0.0,2.0,5.0,4.0,4.0,2.0,2.0
+Differentials Skew Strat,Quarter,GLD_SLV,2.0,1.0,4.0,6.0,2.0,2.0,2.0,2.0,2.0,1.0
+Differentials Skew Strat,Quarter,GDX_SLV,3.0,3.0,5.0,4.0,2.0,3.0,1.0,1.0,0.0,2.0
+Differentials Skew Strat,Year,GLD_GDX,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0
+Differentials Skew Strat,Year,GLD_SLV,1.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0
+Differentials Skew Strat,Year,GDX_SLV,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+Differentials Kurt Strat,Month,GLD_GDX,17.0,27.0,11.0,9.0,4.0,2.0,1.0,0.0,0.0,1.0
+Differentials Kurt Strat,Month,GLD_SLV,7.0,7.0,14.0,16.0,14.0,6.0,6.0,1.0,0.0,1.0
+Differentials Kurt Strat,Month,GDX_SLV,24.0,19.0,13.0,4.0,4.0,2.0,5.0,0.0,0.0,1.0
+Differentials Kurt Strat,Quarter,GLD_GDX,3.0,4.0,1.0,3.0,4.0,3.0,2.0,2.0,0.0,2.0
+Differentials Kurt Strat,Quarter,GLD_SLV,3.0,3.0,4.0,4.0,0.0,4.0,1.0,1.0,2.0,2.0
+Differentials Kurt Strat,Quarter,GDX_SLV,5.0,5.0,3.0,2.0,3.0,2.0,3.0,0.0,0.0,1.0
+Differentials Kurt Strat,Year,GLD_GDX,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+Differentials Kurt Strat,Year,GLD_SLV,2.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+Differentials Kurt Strat,Year,GDX_SLV,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
